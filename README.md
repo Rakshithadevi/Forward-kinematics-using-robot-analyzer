@@ -44,16 +44,26 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ## OUTPUT:
-### SIMULATION :
+
  ## 4 DOF:
+ ### SIMULATION :
+ ![image](https://user-images.githubusercontent.com/94165326/174301685-13271630-4e27-4203-8bcb-74fb3df001d3.png)
+
     
 
 
 ### GRAPH:
+![image](https://user-images.githubusercontent.com/94165326/174302219-fad51940-a125-4d80-b5b7-147dd6227099.png)
+
+
 
 
 
 ### EE CONFIG
+![image](https://user-images.githubusercontent.com/94165326/174302409-fd5f83a0-b6c4-4fa3-b857-68083de67aab.png)
+
+## TABLE:
+![image](https://user-images.githubusercontent.com/94165326/174302647-56ba22e9-fcb4-4297-8d06-01390bc7e7fd.png)
 
  
  
@@ -62,14 +72,25 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
- ### PLOT 
+
 
 ## 6 DOF:
+### SIMULATION :
+![image](https://user-images.githubusercontent.com/94165326/174302821-de61a00e-7515-4956-aaf0-3871e795b3f0.png)
+
 ### GRAPH:
+![image](https://user-images.githubusercontent.com/94165326/174302870-650e5981-e13c-41ca-adc6-c9cbcc79329a.png)
+
 
 
 
 ### EE CONFIG
+![image](https://user-images.githubusercontent.com/94165326/174302928-f97a509a-c57e-40df-af3f-7d0782c47659.png)
+
+
+## TABLE:
+![image](https://user-images.githubusercontent.com/94165326/174303029-c8ab2f91-769e-42fa-9d19-c7012de29580.png)
+
 
  
  
@@ -78,7 +99,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
- ### PLOT 
+ 
 
 
  
